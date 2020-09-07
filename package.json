@@ -1,22 +1,18 @@
 {
-    "name": "wolfage-finance-platform",
-    "version": "0.0.1",
-    "description": "The Wolfage Finance Platform and Ecosystem",
-    "main": "index.js",
-    "scripts": {
-    },
-    "repository": "https://github.com/WolfageFinance/wolfage-finance-platform.git",
-    "author": "Wolfage Finance Platform",
-    "license": "MIT",
-    "devDependencies": {
-      "bignumber.js": "8.0.1",
-      "jest-diff": "^24.9.0",
-      "jest-junit": "^6.4.0",
-      "solium": "^1.2.5",
-      "solparse": "^2.2.8"
-    },
-    "dependencies": {
-      "eth-saddle": "^0.1.17"
-    }
-  }
-  
+  "name": "wolfage-finance-platform",
+  "version": "0.0.1",
+  "description": "The Wolfage Finance Platform and Ecosystem",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "https://github.com/WolfageFinance/wolfage-finance-platform.git",
+  "author": "Wolfage Finance Platform",
+  "license": "MIT",
+  "devDependencies": {
+    "bignumber.js": "8.0.1",
+    "jest-diff": "^24.9.0",
+    "jest-junit": "^6.4.0",
+    "solium": "^1.2.5",
+    "solparse": "^2.2.8"
+  },
+  "dependencies": {}
+}
